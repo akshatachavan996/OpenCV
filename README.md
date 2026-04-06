@@ -1,4 +1,4 @@
-# OpenCv 
+# Open_CV
 ✋Finger Counter (Both Hands)
 A real-time computer vision project that detects both hands, identifies Left/Right hand, and counts the number of fingers raised using a webcam.
 Built using OpenCV and MediaPipe.
